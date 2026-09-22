@@ -8,6 +8,10 @@ return {
     enabled = false,
   },
   {
+    "saghen/blink.cmp",
+    enabled = false,
+  },
+  {
     "snacks.nvim",
     opts = {
       dashboard = {
