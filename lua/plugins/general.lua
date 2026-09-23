@@ -7,10 +7,10 @@ return {
     "nvim-mini/mini.ai",
     enabled = false,
   },
-  {
-    "saghen/blink.cmp",
-    enabled = false,
-  },
+  -- {
+  --   "saghen/blink.cmp",
+  --   enabled = false,
+  -- },
   {
     "snacks.nvim",
     opts = {
